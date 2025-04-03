@@ -1,4 +1,4 @@
-# Ex.No:6 Implement an application that uses Explicit Intent using Android
+[# Ex.No:6 Implement an application that uses Explicit Intent using Android
 
 
 ## AIM:
@@ -30,3 +30,4 @@ Registeration Number :
 
 ## RESULT
 Thus a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
+](https://github.com/Priyasenthil17/Ex_6_Explicit-Intent/compare/main...21002272:Ex_6_Explicit-Intent:patch-1)
